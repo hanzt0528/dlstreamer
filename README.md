@@ -15,7 +15,7 @@ models location:/home/dlstreamer/intel/dl_streamer/models/
 
 3build:
 1) dowload dlstreamer https://github.com/dlstreamer/dlstreamer tag:v1.6
-2)build
+2) build
       # cmake
       mkdir ~/intel/dlstreamer_gst/build
       cd ~/intel/dlstreamer_gst/build
